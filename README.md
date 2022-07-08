@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twackcowboy69
-- 👀 I’m interested in ... Termux, Samsung, Root, AI, Programming,Tweeking
+- 👀 I’m interested in ... SG A326U,Termux, Samsung, Root, AI, Programming,Tweeking
 - 🌱 I’m currently learning ... json, Python2, programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
